@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "source_archive": "long-horizon-task.zip",
+  "source_archive_sha256": "90ecfee13f710a3b1a6973d2a07563233a64284b724264a296093215282cac13",
+  "import_date": "2026-09-24",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "bytes": 3016,
+      "sha256": "7a541e51c08d315bf4796adeab578018a32117460b63541049ace218bedf58ff"
+    },
+    {
+      "path": "assets/templates/gitignore.sample",
+      "bytes": 72,
+      "sha256": "120db4ca1d3993469f42952d198f4f1a9d54047f49e665627d5452a2a19d4a7f"
+    },
+    {
+      "path": "assets/templates/task-README.md",
+      "bytes": 650,
+      "sha256": "537f3e6e094bc628e9c7d261049498cfd8775757048af882a9ae653191f656af"
+    },
+    {
+      "path": "assets/templates/topic-README.md",
+      "bytes": 617,
+      "sha256": "14ceff0af35d26317fa254cb289d3e89328f20b19e28b348fab5c21aed3927e3"
+    },
+    {
+      "path": "assets/templates/type-README.md",
+      "bytes": 480,
+      "sha256": "e705b352e0a15fa38de6185899d4722e91927bcbf97b00fece7eb7057950dc6c"
+    },
+    {
+      "path": "references/adopt-existing.md",
+      "bytes": 1273,
+      "sha256": "68a80512c6b460caa89fbacace2352bb4390e57d0c175e5b83efba3a19299fea"
+    },
+    {
+      "path": "references/new-topic.md",
+      "bytes": 990,
+      "sha256": "711f56fb8ca24a90e193a3e5f484b95b52333b4c260d86b506f3dce3147ae2eb"
+    }
+  ]
+}
